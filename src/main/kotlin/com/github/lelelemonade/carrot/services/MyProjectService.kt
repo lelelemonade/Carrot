@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.lelelemonade.carrot.services
 
+import com.github.lelelemonade.carrot.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
